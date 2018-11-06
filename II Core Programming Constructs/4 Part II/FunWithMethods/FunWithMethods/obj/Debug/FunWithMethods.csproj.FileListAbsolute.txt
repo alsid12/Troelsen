@@ -5,3 +5,10 @@ C:\Users\Home\source\repos\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethod
 C:\Users\Home\source\repos\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csproj.CoreCompileInputs.cache
 C:\Users\Home\source\repos\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.exe
 C:\Users\Home\source\repos\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.pdb
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csprojAssemblyReference.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.pdb
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.pdb

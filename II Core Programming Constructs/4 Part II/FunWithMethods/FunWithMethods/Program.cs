@@ -18,7 +18,14 @@ namespace FunWithMethods
             Console.WriteLine("Answer is: {0}", Add(x, y));
             Console.WriteLine("After call: X {0}, Y: {1}", x, y);
 
-            Console.WriteLine("With out keyword: {0}", Add(x, y, out int ans));
+            int ans;
+            AddAlt(90, 90, out ans);
+            Console.WriteLine("With out keyword: 90 + 90 = {0}", ans);
+
+            int i; string str; bool b;
+            FillTheseValues(out i, out str, out b);
+            Console.WriteLine("Int is: {0}. String is: {1}. Bool is {2}", i, str, b);
+
             Console.ReadLine();
         }
 
@@ -31,9 +38,16 @@ namespace FunWithMethods
             return ans;
         }
 
-        static void Add(int x, int y, out int ans)
+        static void AddAlt(int x, int y, out int ans)
         {
             ans = x + y;
+        }
+
+        static void FillTheseValues(out int a, out string b, out bool c)
+        {
+            a = 9;
+            b = "Enjoy your string";
+            c = true;
         }
     }
 }
