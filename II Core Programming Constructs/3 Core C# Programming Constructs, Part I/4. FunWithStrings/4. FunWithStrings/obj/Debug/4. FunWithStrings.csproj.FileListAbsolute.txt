@@ -1,0 +1,7 @@
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\4. FunWithStrings\4. FunWithStrings\bin\Debug\_4.FunWithStrings.exe.config
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\4. FunWithStrings\4. FunWithStrings\bin\Debug\_4.FunWithStrings.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\4. FunWithStrings\4. FunWithStrings\bin\Debug\_4.FunWithStrings.pdb
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\4. FunWithStrings\4. FunWithStrings\obj\Debug\4. FunWithStrings.csprojAssemblyReference.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\4. FunWithStrings\4. FunWithStrings\obj\Debug\4. FunWithStrings.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\4. FunWithStrings\4. FunWithStrings\obj\Debug\_4.FunWithStrings.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\4. FunWithStrings\4. FunWithStrings\obj\Debug\_4.FunWithStrings.pdb

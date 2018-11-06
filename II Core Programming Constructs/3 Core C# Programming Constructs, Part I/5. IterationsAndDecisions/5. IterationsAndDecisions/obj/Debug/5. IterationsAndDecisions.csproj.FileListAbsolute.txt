@@ -1,0 +1,6 @@
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\5. IterationsAndDecisions\5. IterationsAndDecisions\obj\Debug\5. IterationsAndDecisions.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\5. IterationsAndDecisions\5. IterationsAndDecisions\bin\Debug\_5.IterationsAndDecisions.exe.config
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\5. IterationsAndDecisions\5. IterationsAndDecisions\bin\Debug\_5.IterationsAndDecisions.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\5. IterationsAndDecisions\5. IterationsAndDecisions\bin\Debug\_5.IterationsAndDecisions.pdb
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\5. IterationsAndDecisions\5. IterationsAndDecisions\obj\Debug\_5.IterationsAndDecisions.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\5. IterationsAndDecisions\5. IterationsAndDecisions\obj\Debug\_5.IterationsAndDecisions.pdb

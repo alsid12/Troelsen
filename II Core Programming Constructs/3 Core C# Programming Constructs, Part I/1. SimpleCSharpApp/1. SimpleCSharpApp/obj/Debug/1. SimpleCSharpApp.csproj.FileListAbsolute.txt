@@ -1,0 +1,7 @@
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\1. SimpleCSharpApp\1. SimpleCSharpApp\bin\Debug\_1.SimpleCSharpApp.exe.config
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\1. SimpleCSharpApp\1. SimpleCSharpApp\bin\Debug\_1.SimpleCSharpApp.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\1. SimpleCSharpApp\1. SimpleCSharpApp\bin\Debug\_1.SimpleCSharpApp.pdb
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\1. SimpleCSharpApp\1. SimpleCSharpApp\obj\Debug\1. SimpleCSharpApp.csprojAssemblyReference.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\1. SimpleCSharpApp\1. SimpleCSharpApp\obj\Debug\1. SimpleCSharpApp.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\1. SimpleCSharpApp\1. SimpleCSharpApp\obj\Debug\_1.SimpleCSharpApp.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\1. SimpleCSharpApp\1. SimpleCSharpApp\obj\Debug\_1.SimpleCSharpApp.pdb

@@ -1,0 +1,7 @@
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\3. BasicDataTypes\3. BasicDataTypes\bin\Debug\_3.BasicDataTypes.exe.config
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\3. BasicDataTypes\3. BasicDataTypes\bin\Debug\_3.BasicDataTypes.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\3. BasicDataTypes\3. BasicDataTypes\bin\Debug\_3.BasicDataTypes.pdb
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\3. BasicDataTypes\3. BasicDataTypes\obj\Debug\3. BasicDataTypes.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\3. BasicDataTypes\3. BasicDataTypes\obj\Debug\_3.BasicDataTypes.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\3. BasicDataTypes\3. BasicDataTypes\obj\Debug\_3.BasicDataTypes.pdb
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\Part II\Chapter 3. Core C# Programming Constructs, Part I\3. BasicDataTypes\3. BasicDataTypes\obj\Debug\3. BasicDataTypes.csprojAssemblyReference.cache
