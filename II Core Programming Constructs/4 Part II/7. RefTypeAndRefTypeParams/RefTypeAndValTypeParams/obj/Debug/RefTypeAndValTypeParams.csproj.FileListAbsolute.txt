@@ -1,0 +1,6 @@
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\7. RefTypeAndRefTypeParams\RefTypeAndValTypeParams\bin\Debug\RefTypeAndValTypeParams.exe.config
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\7. RefTypeAndRefTypeParams\RefTypeAndValTypeParams\bin\Debug\RefTypeAndValTypeParams.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\7. RefTypeAndRefTypeParams\RefTypeAndValTypeParams\bin\Debug\RefTypeAndValTypeParams.pdb
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\7. RefTypeAndRefTypeParams\RefTypeAndValTypeParams\obj\Debug\RefTypeAndValTypeParams.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\7. RefTypeAndRefTypeParams\RefTypeAndValTypeParams\obj\Debug\RefTypeAndValTypeParams.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\7. RefTypeAndRefTypeParams\RefTypeAndValTypeParams\obj\Debug\RefTypeAndValTypeParams.pdb

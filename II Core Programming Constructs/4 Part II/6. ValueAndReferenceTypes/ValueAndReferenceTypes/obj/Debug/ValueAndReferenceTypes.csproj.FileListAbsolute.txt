@@ -1,0 +1,6 @@
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\6. ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe.config
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\6. ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\6. ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.pdb
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\6. ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\6. ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\6. ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.pdb

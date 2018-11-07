@@ -1,0 +1,7 @@
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\5. FunWithStructures\FunWithStructures\bin\Debug\FunWithStructures.exe.config
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\5. FunWithStructures\FunWithStructures\bin\Debug\FunWithStructures.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\5. FunWithStructures\FunWithStructures\bin\Debug\FunWithStructures.pdb
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\5. FunWithStructures\FunWithStructures\obj\Debug\FunWithStructures.csprojAssemblyReference.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\5. FunWithStructures\FunWithStructures\obj\Debug\FunWithStructures.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\5. FunWithStructures\FunWithStructures\obj\Debug\FunWithStructures.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\5. FunWithStructures\FunWithStructures\obj\Debug\FunWithStructures.pdb

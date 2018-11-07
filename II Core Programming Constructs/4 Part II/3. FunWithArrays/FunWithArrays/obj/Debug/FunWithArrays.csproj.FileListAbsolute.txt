@@ -1,0 +1,6 @@
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\3. FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.exe.config
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\3. FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\3. FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.pdb
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\3. FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\3. FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\3. FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.pdb

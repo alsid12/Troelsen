@@ -1,0 +1,6 @@
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\4. FunWithEnum\FunWithEnums\obj\Debug\FunWithEnums.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\4. FunWithEnum\FunWithEnums\bin\Debug\FunWithEnums.exe.config
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\4. FunWithEnum\FunWithEnums\bin\Debug\FunWithEnums.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\4. FunWithEnum\FunWithEnums\bin\Debug\FunWithEnums.pdb
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\4. FunWithEnum\FunWithEnums\obj\Debug\FunWithEnums.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\II Core Programming Constructs\4 Part II\4. FunWithEnum\FunWithEnums\obj\Debug\FunWithEnums.pdb
