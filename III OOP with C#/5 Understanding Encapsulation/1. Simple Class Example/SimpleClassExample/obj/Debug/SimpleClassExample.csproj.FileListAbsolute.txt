@@ -1,0 +1,7 @@
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\III OOP with C#\5 Understanding Encapsulation\1. Simple Class Example\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\III OOP with C#\5 Understanding Encapsulation\1. Simple Class Example\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\III OOP with C#\5 Understanding Encapsulation\1. Simple Class Example\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\III OOP with C#\5 Understanding Encapsulation\1. Simple Class Example\SimpleClassExample\obj\Debug\SimpleClassExample.csprojAssemblyReference.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\III OOP with C#\5 Understanding Encapsulation\1. Simple Class Example\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\III OOP with C#\5 Understanding Encapsulation\1. Simple Class Example\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+H:\Al_Sid\C# Sandbox\Troelsen C# 5\III OOP with C#\5 Understanding Encapsulation\1. Simple Class Example\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
