@@ -65,14 +65,34 @@ namespace LinqOverArray
             //Print only items less than 10.
             var subset = from i in numbers where i < 10 select i;
 
+            // LINQ statement evaluated here!
+            foreach (var i in subset)
+                Console.WriteLine("{0} < 10", i);
 
+            Console.WriteLine();
+            // Change some data in the array.
+            numbers[0] = 4;
 
-            foreach (int i in subset)
+            // Evaluated again!
+            foreach (var j in subset)
             {
-                Console.WriteLine($"Item {i}");
+                Console.WriteLine("{0} < 10", j);
             }
 
+            Console.WriteLine();
+
             ReflectOverQueryResults(subset);
+        }
+
+        static void ImmediateExecution()
+        {
+            int[] numbers = {10, 20, 30, 40, 1, 2, 3, 8};
+
+            // Get data RIGHT NOW as int[].
+            int[] subsetAsIntArray = (from i in numbers where i < 10 select i).ToArray<int>();
+
+            // Get data RIGHT NOW as List<int>.
+            List<int> subsetAsListOfInts = (from i in numbers where i < 10 select i).ToList<int>();
         }
     }
 }

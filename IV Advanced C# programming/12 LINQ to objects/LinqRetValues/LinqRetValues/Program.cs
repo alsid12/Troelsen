@@ -16,6 +16,11 @@ namespace LinqRetValues
             foreach (string s in subset)
                 Console.WriteLine(s);
 
+            foreach (string item in GetStringSubsetAsArray())
+            {
+                Console.WriteLine(item);
+            }
+
             Console.ReadLine();
         }
 
@@ -27,6 +32,17 @@ namespace LinqRetValues
             IEnumerable<string> theRedColors = from c in colors where c.Contains("Red") select c;
 
             return theRedColors;
+        }
+
+        static string[] GetStringSubsetAsArray()
+        {
+            string[] colors = { "Light Red", "Green", "Yellow", "Dark Red", "Purple" };
+
+            //Note subset is an IEnumeranble<string>-compatible object.
+            var theRedColors = from c in colors where c.Contains("Red") select c;
+
+            // Map results into an array.
+            return theRedColors.ToArray();
         }
     }
 }
