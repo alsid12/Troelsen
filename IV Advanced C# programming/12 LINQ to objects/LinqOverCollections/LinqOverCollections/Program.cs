@@ -23,8 +23,10 @@ namespace LinqOverCollections
                 new Car() { PetName = "Melvin", Color = "White", Speed = 43, Make = "Ford"}
             };
 
-            GetFastCars(myCars);
-            GetFastBMWs(myCars);
+            //GetFastCars(myCars);
+            //GetFastBMWs(myCars);
+
+            LINQOverArrayList();
 
             Console.ReadLine();
         }
@@ -65,6 +67,17 @@ namespace LinqOverCollections
                 new Car() { PetName = "Clunker", Color = "Rust", Speed = 5, Make = "Yugo"},
                 new Car() { PetName = "Melvin", Color = "White", Speed = 43, Make = "Ford"}
             };
+
+            // Transform ArrayList into an IEnumerable<T>-compatible type.
+            var myCarsEnum = myCars.OfType<Car>();
+
+            // Create a query expression targeting the compatible type.
+            var fastCars = from c in myCarsEnum where c.Speed > 55 select c;
+
+            foreach (var car in fastCars)
+            {
+                Console.WriteLine("{0} is going too fast!", car.PetName);
+            }
         }
     }
 }
