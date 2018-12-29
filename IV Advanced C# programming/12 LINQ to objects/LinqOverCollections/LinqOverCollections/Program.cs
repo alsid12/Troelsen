@@ -28,6 +28,9 @@ namespace LinqOverCollections
 
             LINQOverArrayList();
 
+            Console.WriteLine("OfType as filter:");
+            OfTypeAsFilter();
+
             Console.ReadLine();
         }
 
@@ -56,7 +59,7 @@ namespace LinqOverCollections
 
         static void LINQOverArrayList()
         {
-            Console.WriteLine("***** LINW over ArrayList *****");
+            Console.WriteLine("***** LINQ over ArrayList *****");
 
             // Here is a nongeneric collection of cars.
             ArrayList myCars = new ArrayList()
@@ -78,6 +81,18 @@ namespace LinqOverCollections
             {
                 Console.WriteLine("{0} is going too fast!", car.PetName);
             }
+        }
+
+        static void OfTypeAsFilter()
+        {
+            // Extract the ints from the ArrayList.
+            ArrayList myStuff = new ArrayList();
+            myStuff.AddRange(new object[] { 10, 400, 8, false, new Car(), "string data" });
+            var myInts = myStuff.OfType<int>();
+
+            // Prints out 10, 400, 8.
+            foreach (int i in myInts)
+                Console.WriteLine("Int value: {0}", i);
         }
     }
 }
