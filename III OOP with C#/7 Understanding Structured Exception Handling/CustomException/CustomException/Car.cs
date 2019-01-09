@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CustomException;
 
 namespace _1_SimpleException
 {
-    class Car
+    public class Car
     {
         // Constant for maximum speed.
         public const int MaxSpeed = 100;
@@ -53,7 +54,10 @@ namespace _1_SimpleException
                     Console.WriteLine($"{PetName} has overheated");
                     CurrentSpeed = 0;
                     carIsDead = true;
-                    throw new Exception($"{PetName} has overheated!");
+
+                    CarIsDeadException ex = new CarIsDeadException($"{PetName} has overheated!", "You have a lead foot", DateTime.Now);
+                    ex.HelpLink = "http://www.CarsRUs.com";
+                    throw ex;
                 }
                 else
                 {
