@@ -10,7 +10,10 @@ namespace SimpleGC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("***** GC BAsics *****\n");
+            Console.WriteLine("***** GC Basics *****\n");
+
+            // Print out estimated number if bytes on heap.
+            Console.WriteLine("Estimated bytes in heap:{}", GC.GetTotalMemory(false));
 
             // Create a new Car object on the managed heap. We are returned a reference to his object ("refToMyCar").
             Car refToMyCar = new Car("Zippy", 50);
