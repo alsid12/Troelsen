@@ -10,10 +10,17 @@ namespace CustomEnumerator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();
+            Console.WriteLine("***** Fun with IEnumerable/ IEnumerator *****\n");
+            Garage carLot = new Garage();
 
-            // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
+            // Hand over each car in the collection?
+
+            foreach (Car c in carLot)
+            {
+                Console.WriteLine("{0} is going {1} MPH", c.PetName, c.CurrentSpeed);
+            }
+
+            Console.ReadLine();
         }
     }
 }
