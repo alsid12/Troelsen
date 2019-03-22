@@ -4,13 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{75D04D05-1F38-489E-9C79-5D3BC65B0543}</ProjectGuid>
+    <ProjectGuid>{70961E90-D93B-4351-B9B5-B8748277A754}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClonablePoint</RootNamespace>
-    <AssemblyName>ClonablePoint</AssemblyName>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <RootNamespace>ComparableCar</RootNamespace>
+    <AssemblyName>ComparableCar</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -43,10 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Point.cs" />
-    <Compile Include="PointDescription.cs" />
+    <Compile Include="Car.cs" />
+    <Compile Include="CarIsDeadException.cs" />
+    <Compile Include="PetNameComparer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Radio.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

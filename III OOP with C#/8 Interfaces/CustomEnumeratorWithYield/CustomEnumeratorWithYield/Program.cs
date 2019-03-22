@@ -10,12 +10,24 @@ namespace CustomEnumeratorWithYield
     {
         static void Main(string[] args)
         {
-            // The code provided will print ‘Hello World’ to the console.
-            // Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();
+            Console.WriteLine("***** Fun with yield keyword *****\n");
+            Garage carLot = new Garage();
 
-            // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
+            // Get items using GetEnumerator().
+            foreach (Car c in carLot)
+            {
+                Console.WriteLine("{0} is going {1} MPH", c.PetName, c.CurrentSpeed);
+            }
+
+            Console.WriteLine();
+
+            // Get items (in reverse!) using named iterator.
+            foreach (Car c in carLot.GetTheCars(true))
+            {
+                Console.WriteLine("{0} is going {1} MPH", c.PetName, c.CurrentSpeed);
+            }
+
+            Console.ReadKey();
         }
     }
 }
